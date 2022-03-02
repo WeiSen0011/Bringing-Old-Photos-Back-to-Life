@@ -1,4 +1,5 @@
 # Old Photo Restoration (Official PyTorch Implementation)
+## 这是一个旧照片的修复程序，很值得学习
 
 <img src='imgs/0001.jpg'/>
 
